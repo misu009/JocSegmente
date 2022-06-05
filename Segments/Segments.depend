@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1653986830 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\point.cpp
+	"point.h"
+
+1653812110 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\point.h
+	"graphics.h"
+	"config.h"
+
+1653674543 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\main.cpp
+	"appmanager.h"
+
+1653816652 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\segment.h
+	"point.h"
+	"graphics.h"
+
+1653816652 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\segment.cpp
+	"segment.h"
+
+1653814940 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\generator.h
+	<vector>
+	"point.h"
+	<ctime>
+	<cstdlib>
+	"config.h"
+
+1653987221 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\window.cpp
+	"window.h"
+
+1652537752 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\window.h
+	"config.h"
+
+1654421903 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\config.h
+	<string>
+	<graphics.h>
+
+1653812393 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\windowmanager.cpp
+	"windowmanager.h"
+
+1653812366 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\windowmanager.h
+	"window.h"
+	<map>
+
+1654419538 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\player.cpp
+	"player.h"
+
+1654420228 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\player.h
+	<string>
+	"board.h"
+
+1653986324 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\generator.cpp
+	"generator.h"
+	<iostream>
+
+1653674482 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\appmanager.h
+	"game.h"
+	"windowmanager.h"
+
+1654423018 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\game.h
+	"board.h"
+	"player.h"
+	"config.h"
+	"generator.h"
+	"humanplayer.h"
+	"randomplayer.h"
+
+1653812444 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\board.h
+	<vector>
+	"point.h"
+	"segment.h"
+
+1653674461 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\appmanager.cpp
+	"appmanager.h"
+
+1653812403 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\board.cpp
+	"board.h"
+	<iostream>
+
+1654422942 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\game.cpp
+	"game.h"
+	<iostream>
+
+1654420305 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\humanplayer.h
+	"player.h"
+
+1654420467 source:d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\humanplayer.cpp
+	"humanplayer.h"
+	<iostream>
+
+1654422790 d:\c++\0.joc\juniorcoders-intermediari2-joc\segments\randomplayer.h
+	"player.h"
+
